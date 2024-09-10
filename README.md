@@ -19,7 +19,7 @@ After signing up for Microsoft Intune, setting up the domain KJHomeLab, and crea
 <img src="https://github.com/user-attachments/assets/c8df6a18-0b59-4d5b-a13b-e026896ab488" alt="Intune and 365"/>
 <br />
 <br />
-The first thing under the Home tab which I was already in, was Users, so I thought it would be a good idea to create some users as I thought I might use them later for administration. I created many users basic user priviliges and a helpdesk account as every administrator other than global. I then decided to create a few basic users for now. There is also the ability to delete users as well. If for instance you licensed the user with someting such as Intune, when the user is deleted you will gain the license back.<br/>
+The first thing under the Home tab which I was already in, was Users, so I thought it would be a good idea to create some users as I might use them later to test administrative methods. I created multiple users with basic priviliges and a helpdesk account as every administrator other than global. There is also the ability to delete users as well. If, for instance, you licensed the user with someting such as Intune, when the user is deleted you will gain the license back.<br/>
  <img src="https://github.com/user-attachments/assets/49e916ee-bd71-4376-b5c2-cab338f01220" alt="Intune and 365"/>
  <img src="https://github.com/user-attachments/assets/e16b2006-f20c-4a12-ac5e-aa0957fffa0d" alt="Intune and 365"/>
   <img src="https://github.com/user-attachments/assets/efa1bc09-6e0c-43c0-baab-2aced195b3f3" alt="Intune and 365"/>

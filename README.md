@@ -47,51 +47,36 @@ As I neared the bottom of 365 Admin Center, the Admin center group redirected me
 <img src="https://github.com/user-attachments/assets/26b375d4-5172-4311-8d43-ef91b9835d7e" alt="Intune and 365"/>
 <br />
 <br />
-Intune Admin Center had completely different settings and configuration than 365 Admin Center, and seemed to focus on devices and configurations which seemed similar to Group Policy Objects in Active Directory. I first created a Configuration called Internet Browsing. I configured some basic rules to increase the security and limit some ability of users when using Google Chrome which could be set as the organziation's only allowed web browser. The rules I set were: disabling thirs part screen capture, restrict http connection, and block external extensions from being installed. When applying the device configuration Intune allows you to include or exclude group for the policy which is great.<br/>
+Microsoft Intune Admin Center had completely different settings and configurations than 365 Admin Center, and seemed to focus on devices and configurations similar to Group Policy Objects in Active Directory. I first created a Configuration called Internet Browsing. I configured some basic rules to increase the security and limit some ability of users when using Google Chrome which could be set as the organziation's only allowed web browser. The rules I set were: disabling third party screen capture, restrict HTTP connections, and block external extensions from being installed. When applying the device configurations, Intune allows you to include or exclude groups for the policy which is great for different departments that have different needs and permissions.<br/>
 <img src="https://github.com/user-attachments/assets/2219dc91-d356-40bc-8705-5a887aa02111" alt="Intune and 365"/>
 <img src="https://github.com/user-attachments/assets/1262bbce-17f7-462a-ba39-57cdfc5344bd" alt="Intune and 365"/>
 <img src="https://github.com/user-attachments/assets/24d409e5-039c-4395-81a9-2644c36b35d4" alt="Intune and 365"/>
 <img src="https://github.com/user-attachments/assets/69ae6889-772c-455b-bd76-a4e31bd55150" alt="Intune and 365"/>
 <img src="https://github.com/user-attachments/assets/16c119dd-27d2-4202-bef5-35fbd786e8e3" alt="Intune and 365"/>
-
 <br />
 <br />
 For more practice I created another Device Configuration this time to enforce basic security handening for the organization. The rules included: Deny all access to removable storage devices, disable users from logging in with temporary profiles, and enabling session logging. For this rule, I was added all devices and all users to the included groups to ensure everyone and everything is covered by this policy.<br/>
 <img src="https://github.com/user-attachments/assets/2b924dba-5f5f-4082-8baf-230aacbf608c" alt="Intune and 365"/>
 <br />
 <br />
-Another very useful ability that Intune Admin Center provides is remote application installation. In this example, I deployed all Microsoft 365 apps from Windows 10 and later endpoints. I was able to configure if I wanted only specific apps within the suite, whether to download the 32 or 64-bit architecture and what version to install. This seems very similar to the tool Deploy by PDQ I experimented with in a past project.<br/>
+Another very useful ability that Intune Admin Center provides is remote application installation. In this example, I deployed all Microsoft 365 apps for Windows 10 and later endpoints. Furthermore, configuration options were very specific such as, if I only wanted specific apps within the suite, whether to download the 32 or 64-bit architecture and what version to install. This seems very similar to the tool Deploy by PDQ I experimented with in a past project.<br/>
 <img src="https://github.com/user-attachments/assets/fc553d89-77a4-4462-9aee-ed9b9b955904" alt="Intune and 365"/>
 <br />
 <br />
-Within Intune Admin Center when I clicked on the Users field on the left I was once again redirected to different Microsoft product this time Entra Admin Center. When in Entra, I saw the Users I had createad in 365 Admin Cetner earlier, and under user settings I changed some of the default settings to ensure users can not make changes to Entra or 365<br/>
+Within Intune Admin Center when I clicked on the Users field on the left I was once again redirected to different Microsoft product, this time Entra Admin Center. When in Entra, I saw the Users I had createad in 365 Admin Cetner earlier, and under user settings I changed some of the default settings to ensure users can not make changes to Entra or 365.<br/>
 <img src="https://github.com/user-attachments/assets/704c4622-11ee-489a-9282-2449c27d3769" alt="Intune and 365"/>
 <br />
 <br />
-There was another tool with the Entra Admin Center that like Intune Admin Center allowed me to remotely install enterprise applications. The process of adding users or groups to receive the application was similar, it lists the users, but at the top you can choose add group to more efficently add specific users already defined. <br/>
+There was another tool within Entra Admin Center that like Intune Admin Center allowed me to remotely install enterprise applications. I chose to deploy Zoom to the users in the domain. The process of adding users or groups to receive the application was similar, it lists the users, but at the top you can choose add group to more efficently add specific users already defined. <br/>
 <img src="https://github.com/user-attachments/assets/628691e3-628a-40e8-968e-b267dffd6926" alt="Intune and 365"/>
 <img src="https://github.com/user-attachments/assets/dd1d355c-6675-4466-a3f0-b7925231919f" alt="Intune and 365"/>
-<br />
-<br />
-Text<br/>
-<img src="" alt="Intune and 365"/>
-<br />
-<br />
-Text<br/>
-<img src="" alt="Intune and 365"/>
-<br />
-<br />
-
-<br />
-<br />
-MAYBE Text?<br/>
 <br />
 <br />
 
 
 
 <h2>Thoughts</h2>
-Text
+This project was very interesting as it kept taking turns and redirecting to applications I had no initial intention of using. However, I was gladly suprised. I initially only wanted to learn about Intune, but was able to learn about several other Microsoft tools and systems. In a perfect world, there is no reason for all them no be tied together in one administration tool, however, at least within say 365 Admin center, clicking on endpoints opens Intunes to configure endpoints. All of the products were fairly straightforward. Potentially in a future project I will add the Intune licenses to users on a virtual machine and do active configuration rather than theoretical. That would make for even more learning opportunities. 
 <!--
  ```diff
 - text in red

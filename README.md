@@ -56,15 +56,15 @@ Intune Admin Center had completely different settings and configuration than 365
 
 <br />
 <br />
-Text<br/>
-<img src="" alt="Intune and 365"/>
+For more practice I created another Device Configuration this time to enforce basic security handening for the organization. The rules included: Deny all access to removable storage devices, disable users from logging in with temporary profiles, and enabling session logging. For this rule, I was added all devices and all users to the included groups to ensure everyone and everything is covered by this policy.<br/>
+<img src="https://github.com/user-attachments/assets/2b924dba-5f5f-4082-8baf-230aacbf608c" alt="Intune and 365"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Intune and 365"/>
+Another very useful ability that Intune Admin Center provides is remote application installation. In this example, I deployed all Microsoft 365 apps from Windows 10 and later endpoints. I was able to configure if I wanted only specific apps within the suite, whether to download the 32 or 64-bit architecture and what version to install. This seems very similar to the tool Deploy by PDQ I experimented with in a past project.<br/>
+<img src="https://github.com/user-attachments/assets/fc553d89-77a4-4462-9aee-ed9b9b955904" alt="Intune and 365"/>
 <br />
 <br />
-Text<br/>
+Within Intune Admin Center when I clicked on the Users field on the left I was once again redirected to different Microsoft product this time Entra Admin Center.<br/>
 <img src="" alt="Intune and 365"/>
 <br />
 <br />

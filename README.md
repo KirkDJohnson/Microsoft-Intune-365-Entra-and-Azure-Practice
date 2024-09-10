@@ -38,7 +38,7 @@ From within 365 Admin Center you can reset user's password or password protected
 <img src="https://github.com/user-attachments/assets/29137489-cc5c-441d-ab75-494877b0e105" alt="Intune and 365"/>
 <br />
 <br />
-Interestingly, when I chose to create a guest user, it launched me into Microsoft Azure rather than staying within 365 Admin Center like creating standard user accounts. Moreover, there was considerably more fields to fill out when creating the guest uesr in Azure.<br/>
+Interestingly, when I chose to create a guest user, it launched me into Microsoft Azure rather than staying within 365 Admin Center like creating standard user accounts. Moreover, there were considerably more fields to fill out when creating the guest user in Azure than 365.<br/>
 <img src="https://github.com/user-attachments/assets/97a7fdf5-1282-45ec-9f21-6a6cfcabb489" alt="Intune and 365"/>
  <img src="https://github.com/user-attachments/assets/e17f324b-f2ce-4996-a03c-2071ea1508b0" alt="Intune and 365"/>
 <br />

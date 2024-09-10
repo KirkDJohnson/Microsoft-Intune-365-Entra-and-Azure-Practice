@@ -1,4 +1,4 @@
-<h1>Learning Microsoft Intune, 365, and Entra Administration (IN PROGRESS)</h1>
+<h1>Learning Microsoft Intune, 365, and Entra Administration</h1>
 
 <br />
 <h2>Description</h2>
@@ -67,7 +67,7 @@ Within Intune Admin Center when I clicked on the Users field on the left I was o
 <img src="https://github.com/user-attachments/assets/704c4622-11ee-489a-9282-2449c27d3769" alt="Intune and 365"/>
 <br />
 <br />
-There was another tool within Entra Admin Center that like Intune Admin Center allowed me to remotely install enterprise applications. I chose to deploy Zoom to the users in the domain. The process of adding users or groups to receive the application was similar, it lists the users, but at the top you can choose add group to more efficently add specific users already defined. <br/>
+There was another tool within Entra Admin Center similar to Intune which allowed me to remotely install enterprise applications. I chose to deploy Zoom to the users in the domain. The process of adding users or groups to receive the application was similar, it lists the users, but at the top you can choose add group to more efficently add specific users already defined. <br/>
 <img src="https://github.com/user-attachments/assets/628691e3-628a-40e8-968e-b267dffd6926" alt="Intune and 365"/>
 <img src="https://github.com/user-attachments/assets/dd1d355c-6675-4466-a3f0-b7925231919f" alt="Intune and 365"/>
 <br />
@@ -76,7 +76,7 @@ There was another tool within Entra Admin Center that like Intune Admin Center a
 
 
 <h2>Thoughts</h2>
-This project was very interesting as it kept taking turns and redirecting to applications I had no initial intention of using. However, I was gladly suprised. I initially only wanted to learn about Intune, but was able to learn about several other Microsoft tools and systems. In a perfect world, there is no reason for all them no be tied together in one administration tool, however, at least within say 365 Admin center, clicking on endpoints opens Intunes to configure endpoints. All of the products were fairly straightforward. Potentially in a future project I will add the Intune licenses to users on a virtual machine and do active configuration rather than theoretical. That would make for even more learning opportunities. 
+This project was very interesting as it kept taking turns and redirecting me to applications I had no initial intention of using. However, I was gladly suprised. I initially only wanted to learn about Intune, but was able to learn about several other Microsoft tools and systems. In a perfect world, there is no reason for all them not be tied together in one administration tool. Although, at least within say 365 Admin center, clicking on endpoints opens Intune to configure endpoints. All of the products were fairly straightforward. Potentially in a future project I will add the Intune licenses to users on a virtual machine and do active configuration rather than theoretical. That would make for even more learning opportunities. 
 <!--
  ```diff
 - text in red

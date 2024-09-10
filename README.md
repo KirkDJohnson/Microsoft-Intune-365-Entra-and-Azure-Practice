@@ -2,7 +2,7 @@
 
 <br />
 <h2>Description</h2>
-Text
+I had planned for this to be a project where I explore the characteristics of Microsoft Intune, however, because many Microsoft applications are interconnected I ended up experimenting with Microsoft 365, Intune, Entra, and Azure in some capacity. I created standard and guest accounts, created a security to assign the users to, within 365 Admin Center and Azure, I created mulitple device configuration to secure web browsing and overall best security practices.
 
 <h2>Utilities Used</h2>
 
@@ -64,12 +64,13 @@ Another very useful ability that Intune Admin Center provides is remote applicat
 <img src="https://github.com/user-attachments/assets/fc553d89-77a4-4462-9aee-ed9b9b955904" alt="Intune and 365"/>
 <br />
 <br />
-Within Intune Admin Center when I clicked on the Users field on the left I was once again redirected to different Microsoft product this time Entra Admin Center.<br/>
-<img src="" alt="Intune and 365"/>
+Within Intune Admin Center when I clicked on the Users field on the left I was once again redirected to different Microsoft product this time Entra Admin Center. When in Entra, I saw the Users I had createad in 365 Admin Cetner earlier, and under user settings I changed some of the default settings to ensure users can not make changes to Entra or 365<br/>
+<img src="https://github.com/user-attachments/assets/704c4622-11ee-489a-9282-2449c27d3769" alt="Intune and 365"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Intune and 365"/>
+There was another tool with the Entra Admin Center that like Intune Admin Center allowed me to remotely install enterprise applications. The process of adding users or groups to receive the application was similar, it lists the users, but at the top you can choose add group to more efficently add specific users already defined. <br/>
+<img src="https://github.com/user-attachments/assets/628691e3-628a-40e8-968e-b267dffd6926" alt="Intune and 365"/>
+<img src="https://github.com/user-attachments/assets/dd1d355c-6675-4466-a3f0-b7925231919f" alt="Intune and 365"/>
 <br />
 <br />
 Text<br/>

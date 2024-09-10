@@ -19,12 +19,14 @@ After signing up for Microsoft Intune, setting up the domain KJHomeLab, and crea
 <img src="https://github.com/user-attachments/assets/c8df6a18-0b59-4d5b-a13b-e026896ab488" alt="Intune and 365"/>
 <br />
 <br />
-The first thing under the Home tab which I was already in, was Users, so I thought it would be a good idea to create some users as I thought I might use them later for administration. I created good ol john smith with basic user priviliges and a helpdesk account as every administrator other than global. I then decided to create a few basic users for now.<br/>
+The first thing under the Home tab which I was already in, was Users, so I thought it would be a good idea to create some users as I thought I might use them later for administration. I created good ol john smith with basic user priviliges and a helpdesk account as every administrator other than global. I then decided to create a few basic users for now. There is also the ability to delete users as well. If for instance you licensed the user with someting such as Intune, when the user is deleted you will gain the license back.<br/>
 <img src="https://github.com/user-attachments/assets/6cb17f1d-f2ba-4c93-a0fd-bdc8f6722a1c" alt="Intune and 365"/>
  <img src="https://github.com/user-attachments/assets/3886bf8d-2113-4664-89f3-697da4354c94" alt="Intune and 365"/>
  <img src="https://github.com/user-attachments/assets/49e916ee-bd71-4376-b5c2-cab338f01220" alt="Intune and 365"/>
  <img src="https://github.com/user-attachments/assets/e16b2006-f20c-4a12-ac5e-aa0957fffa0d" alt="Intune and 365"/>
   <img src="https://github.com/user-attachments/assets/efa1bc09-6e0c-43c0-baab-2aced195b3f3" alt="Intune and 365"/>
+
+<img src="https://github.com/user-attachments/assets/d59e7fff-c77f-43c2-9891-1f93a2dfa89a" alt="Intune and 365"/>
 <br />
 <br />
 I then created a Security Group called Engineering Department and assigned some users to it. I also created a Microsoft 365 group which appears to be a shared email list. I added all the users, set it to private meaning that only those invited or added tot he group could recieve or send emails from it. It seems like a nice tool to have to send out bulk emails to a specific group or even the entire organization.<br/>

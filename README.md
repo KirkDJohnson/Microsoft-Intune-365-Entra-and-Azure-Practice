@@ -15,7 +15,7 @@ I had planned for this to be a project where I explore the characteristics of Mi
 <h2>Lab Overview:</h2>
 
 <p align="center">
-After signing up for Microsoft Intune, setting up the domain KJHomeLab, and creating my first account, I was met with the Microsoft 365 Admin center which suprised me. I did not know that much about Intunes or 365 so I just began exploring with the page infront of me for now. <br/>
+After signing up for Microsoft Intune, setting up the domain KJHomeLab, and creating my first account, I was met with the Microsoft 365 Admin center which suprised me. I did not know that much about Intune or 365, and because I was brought to the 365 Admin Center I thought it would be a good time to explore that. <br/>
 <img src="https://github.com/user-attachments/assets/c8df6a18-0b59-4d5b-a13b-e026896ab488" alt="Intune and 365"/>
 <br />
 <br />

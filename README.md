@@ -55,7 +55,7 @@ Microsoft Intune Admin Center had completely different settings and configuratio
 <img src="https://github.com/user-attachments/assets/16c119dd-27d2-4202-bef5-35fbd786e8e3" alt="Intune and 365"/>
 <br />
 <br />
-For more practice I created another Device Configuration this time to enforce basic security handening for the organization. The rules included: Deny all access to removable storage devices, disable users from logging in with temporary profiles, and enabling session logging. For this rule, I was added all devices and all users to the included groups to ensure everyone and everything is covered by this policy.<br/>
+For more practice I created another Device Configuration this time to enforce basic security hardening for the organization. The rules included: Deny all access to removable storage devices, disable users from logging in with temporary profiles, and enabling session logging. For this rule, I was added all devices and all users to the included groups to ensure everyone and everything is covered by this policy.<br/>
 <img src="https://github.com/user-attachments/assets/2b924dba-5f5f-4082-8baf-230aacbf608c" alt="Intune and 365"/>
 <br />
 <br />

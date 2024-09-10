@@ -32,12 +32,14 @@ I then created a Security Group called Engineering Department and assigned some 
  <img src="https://github.com/user-attachments/assets/43315b2e-1ebc-4cc3-a8c7-0778b6588949" alt="Intune and 365"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Intune and 365"/>
+Ferom within 365 Admin Center you can reset user's password or password protected mailboxes similar to Active Directory Users and Computers. When resetting a password there is an option to automatically create a password or the admin can manually create a password if there is a password naming scheme in the organization.<br/>
+<img src="https://github.com/user-attachments/assets/feb7db72-7426-4111-935a-4e9c7b709898" alt="Intune and 365"/>
+<img src="https://github.com/user-attachments/assets/29137489-cc5c-441d-ab75-494877b0e105" alt="Intune and 365"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Intune and 365"/>
+Intrestingly, when I chose to create a guest user, it laucned me into Microsoft Azure rather than staying within 365 Admin Center like creating standard user accounts. Moreover, there was considerably more fields to fill out when creating the guest uesr in Azure<br/>
+<img src="https://github.com/user-attachments/assets/97a7fdf5-1282-45ec-9f21-6a6cfcabb489" alt="Intune and 365"/>
+ <img src="https://github.com/user-attachments/assets/e17f324b-f2ce-4996-a03c-2071ea1508b0" alt="Intune and 365"/>
 <br />
 <br />
 Text<br/>

@@ -9,6 +9,7 @@ Text
 - <b>Microsoft 365 Admin Center</b> 
 - <b>Microsoft Intune Admin Center</b>
 - <b>Microsoft Entra Admin Center</b>
+- <b>Microsoft Azure</b>
 
 
 <h2>Lab Overview:</h2>

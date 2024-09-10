@@ -27,23 +27,23 @@ The first thing under the Home tab which I was already in, was Users, so I thoug
 <img src="https://github.com/user-attachments/assets/d59e7fff-c77f-43c2-9891-1f93a2dfa89a" alt="Intune and 365"/>
 <br />
 <br />
-I then created a Security Group called Engineering Department and assigned some users to it. I also created a Microsoft 365 group which appears to be a shared email list. I added all the users, set it to private meaning that only those invited or added tot he group could recieve or send emails from it. It seems like a nice tool to have to send out bulk emails to a specific group or even the entire organization.<br/>
+I then created a Security Group called Engineering Department and assigned some users to it. I also created a Microsoft 365 group which appears to be a shared email list. I added all the users, set it to private meaning that only those invited or added to the group could receive or send emails from it. It seems like a nice tool to have to send out bulk emails to a specific group or even the entire organization.<br/>
 <img src="https://github.com/user-attachments/assets/94c49142-4394-4828-afae-e21a9cfe9314" alt="Intune and 365"/>
  <img src="https://github.com/user-attachments/assets/27591f10-06a5-4c07-bf56-ce94af01e891" alt="Intune and 365"/>
  <img src="https://github.com/user-attachments/assets/43315b2e-1ebc-4cc3-a8c7-0778b6588949" alt="Intune and 365"/>
 <br />
 <br />
-Ferom within 365 Admin Center you can reset user's password or password protected mailboxes similar to Active Directory Users and Computers. When resetting a password there is an option to automatically create a password or the admin can manually create a password if there is a password naming scheme in the organization.<br/>
+From within 365 Admin Center you can reset user's password or password protected mailboxes similar to Active Directory Users and Computers. When resetting a password there is an option to automatically create a password or the admin can manually create a password if there is a password naming scheme in the organization.<br/>
 <img src="https://github.com/user-attachments/assets/feb7db72-7426-4111-935a-4e9c7b709898" alt="Intune and 365"/>
 <img src="https://github.com/user-attachments/assets/29137489-cc5c-441d-ab75-494877b0e105" alt="Intune and 365"/>
 <br />
 <br />
-Intrestingly, when I chose to create a guest user, it laucned me into Microsoft Azure rather than staying within 365 Admin Center like creating standard user accounts. Moreover, there was considerably more fields to fill out when creating the guest uesr in Azure.<br/>
+Interestingly, when I chose to create a guest user, it launched me into Microsoft Azure rather than staying within 365 Admin Center like creating standard user accounts. Moreover, there was considerably more fields to fill out when creating the guest uesr in Azure.<br/>
 <img src="https://github.com/user-attachments/assets/97a7fdf5-1282-45ec-9f21-6a6cfcabb489" alt="Intune and 365"/>
  <img src="https://github.com/user-attachments/assets/e17f324b-f2ce-4996-a03c-2071ea1508b0" alt="Intune and 365"/>
 <br />
 <br />
-As I neared the bottom of 365 Admin Center, the Admin center group redirected me to different pages such as Microsoft Defender and fianlly Microsoft Intune Admin Center whencliced on Endpoint Manager where I thought I would be the whole time. <br/>
+As I neared the bottom of 365 Admin Center, the Admin center group redirected me to different pages such as Microsoft Defender when clicking on security and Microsoft Intune Admin Center when I clicked on Endpoint Manager.  <br/>
 <img src="https://github.com/user-attachments/assets/26b375d4-5172-4311-8d43-ef91b9835d7e" alt="Intune and 365"/>
 <br />
 <br />

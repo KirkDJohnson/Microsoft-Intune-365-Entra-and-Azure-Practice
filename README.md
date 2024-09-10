@@ -38,17 +38,22 @@ Ferom within 365 Admin Center you can reset user's password or password protecte
 <img src="https://github.com/user-attachments/assets/29137489-cc5c-441d-ab75-494877b0e105" alt="Intune and 365"/>
 <br />
 <br />
-Intrestingly, when I chose to create a guest user, it laucned me into Microsoft Azure rather than staying within 365 Admin Center like creating standard user accounts. Moreover, there was considerably more fields to fill out when creating the guest uesr in Azure<br/>
+Intrestingly, when I chose to create a guest user, it laucned me into Microsoft Azure rather than staying within 365 Admin Center like creating standard user accounts. Moreover, there was considerably more fields to fill out when creating the guest uesr in Azure.<br/>
 <img src="https://github.com/user-attachments/assets/97a7fdf5-1282-45ec-9f21-6a6cfcabb489" alt="Intune and 365"/>
  <img src="https://github.com/user-attachments/assets/e17f324b-f2ce-4996-a03c-2071ea1508b0" alt="Intune and 365"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Intune and 365"/>
+As I neared the bottom of 365 Admin Center, the Admin center group redirected me to different pages such as Microsoft Defender and fianlly Microsoft Intune Admin Center whencliced on Endpoint Manager where I thought I would be the whole time. <br/>
+<img src="https://github.com/user-attachments/assets/26b375d4-5172-4311-8d43-ef91b9835d7e" alt="Intune and 365"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Intune and 365"/>
+Intune Admin Center had completely different settings and configuration than 365 Admin Center, and seemed to focus on devices and configurations which seemed similar to Group Policy Objects in Active Directory. I first created a Configuration called Internet Browsing. I configured some basic rules to increase the security and limit some ability of users when using Google Chrome which could be set as the organziation's only allowed web browser. The rules I set were: disabling thirs part screen capture, restrict http connection, and block external extensions from being installed. When applying the device configuration Intune allows you to include or exclude group for the policy which is great.<br/>
+<img src="https://github.com/user-attachments/assets/2219dc91-d356-40bc-8705-5a887aa02111" alt="Intune and 365"/>
+<img src="https://github.com/user-attachments/assets/1262bbce-17f7-462a-ba39-57cdfc5344bd" alt="Intune and 365"/>
+<img src="https://github.com/user-attachments/assets/24d409e5-039c-4395-81a9-2644c36b35d4" alt="Intune and 365"/>
+<img src="https://github.com/user-attachments/assets/69ae6889-772c-455b-bd76-a4e31bd55150" alt="Intune and 365"/>
+<img src="https://github.com/user-attachments/assets/16c119dd-27d2-4202-bef5-35fbd786e8e3" alt="Intune and 365"/>
+
 <br />
 <br />
 Text<br/>
